@@ -1,4 +1,4 @@
-
+//Richiamiamo la nostra funzione
 const wordUser = prompt("Qual è la parola da verificare?");
 console.log(wordUser, wordUser.length);
 
